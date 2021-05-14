@@ -1,6 +1,10 @@
+# Expense Tracker
 Personal Expense Tracker is a scalable web application built using React and Material UI.
 The application provides numerous services including calculation of total income,total expenses,
 overall balance and also previous transaction history.
+
+![Capture](https://user-images.githubusercontent.com/60782798/118252113-0c6e1f80-b4c6-11eb-8b07-57f6d4aeb0c1.PNG)
+
 The app is deployed in heroku and can be accessed via the following link:
 
 https://personal-expense-tracker-16.herokuapp.com/
